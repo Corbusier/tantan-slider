@@ -18,6 +18,6 @@ npm run build
 npm run build --report
 ```
 
-关于项目的说明在：[vue-tantan-slider]()
+关于项目的说明在：[vue-tantan-slider](https://corbusier.github.io/2018/05/08/%E6%8E%A2%E6%8E%A2%E6%BB%91%E5%8A%A8%E7%BB%84%E4%BB%B6/#more)
 
-[在线预览]()
+[在线预览](https://corbusier.github.io/tantan-slider/dist/index.html)
